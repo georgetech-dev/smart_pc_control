@@ -1,0 +1,9 @@
+{
+  "name": "GeorgeTech PC Control",
+  "short_name": "PC Control",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#08101f",
+  "theme_color": "#0f172a",
+  "icons": [{"src":"./power.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
